@@ -29,7 +29,8 @@ module.exports = {
   module: {
     loaders: [{
       test: /\.md$/,
-      loader: "html-loader!markdown-loader?gfm=false"
+      loaders: ["raw"],
+      include: __dirname
     }, {
       test: /\.(js|jsx)$/,
       exclude: /node_modules/,
