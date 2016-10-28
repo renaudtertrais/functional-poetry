@@ -1,0 +1,50 @@
+.spectacle-slide .spectacle-content{
+  color: #FFF;
+  text-align: left !important;
+  line-height: 1.2;
+  font-size: 40px;
+  max-height: 100% !important;
+}
+
+.spectacle-slide h1 {
+  text-align: center;
+  font-size: 1.6em;
+}
+
+.spectacle-slide .CodeMirror {
+  margin-bottom: 16px;
+  height: auto;
+  line-height: 1.5;
+  padding: 5px;
+  font-size: .5em;
+}
+
+.spectacle-content blockquote {
+  font-size: 1.2em;
+  background: rgba(0, 0, 0, .1);
+  margin: 0;
+  padding: 0 30px;
+}
+
+.spectacle-slide p {
+  margin: 20px 0;
+}
+
+.spectacle-slide .markdown-body > pre {
+  display: none;
+}
+
+.spectacle-slide a {
+  color: #FFF;
+}
+
+.spectacle-slide .video {
+  text-align: center;
+}
+
+.spectacle-slide .markdown-body code {
+  font-size: .7em;
+  display: inline-block;
+  padding: 0 .2em;
+  background-color: rgba(0, 0, 0, .3);
+}
