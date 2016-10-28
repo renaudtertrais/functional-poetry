@@ -1,6 +1,6 @@
 
 
-<h1> 
+<h1>
 <a href="http://www.meetup.com/jsromandie/">
   <img src="https://pbs.twimg.com/profile_images/2834994419/34c0f329e2cb7c16c624f4c107d54e45.png" alt="Logo JSRomandie" width="50" />
 </a>
@@ -12,6 +12,8 @@ Presentation from my talk [*"Let's write some functional poetry!"*](http://www.m
 
 - [Presentation](https://renaudtertrais.github.io/functional-poetry)
 - [Slides in markdown](SLIDES.md)
+
+![screenshot](asset/screenshot.png)
 
 ## Licence
 
