@@ -13,7 +13,7 @@ Presentation from my talk [*"Let's write some functional poetry!"*](http://www.m
 - [Presentation](https://renaudtertrais.github.io/functional-poetry)
 - [Slides in markdown](SLIDES.md)
 
-![screenshot](asset/screenshot.png)
+![screenshot](assets/screenshot.png)
 
 ## Licence
 
